@@ -1,7 +1,8 @@
 *{
     text-decoration: none;
     list-style-type: none;
-    color: black;
+    color: white;
+    
 }
 .nav{
     display: flex;
@@ -26,3 +27,18 @@ color:white;
     align-items: center;
     justify-content: center;
 }
+/* Hammer Banner */
+.text{
+
+
+
+font-size: 150px;
+line-height: 160px;
+
+
+color: #FFFFFF;
+}
+.color-purple{
+    color: #6943B7;
+}
+

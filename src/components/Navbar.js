@@ -13,6 +13,7 @@ export default function Navbar(){
                     Try it out now
                 </a>
             </div>
+            
         </div>
         
        
