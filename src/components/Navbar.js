@@ -7,7 +7,7 @@ export default function Navbar(){
     return(
         <>
         <div className='nav'>
-            <img src={require('../images/logo1.png')} />
+            <img src={require('../images/logo1.png')} alt="logo" />
             <div className='test1'>
                 <a className='button' href='https://discord.com/api/oauth2/authorize?client_id=997577664405700829&permissions=8&scope=bot'>
                     Try it out now

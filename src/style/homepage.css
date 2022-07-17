@@ -16,7 +16,7 @@
         margin-top: 50px;
     }
     
-    .image{
+    .logo{
         width: 50px;
         height: 50px;
     }
@@ -52,9 +52,9 @@
         margin-top: 50px;
     }
     
-    .image{
-        width: 70px;
-        height: 70px;
+    .logo{
+        width: 20%;
+        height: 20%;
     }
     .title{
         font-size: 60px;
@@ -71,7 +71,7 @@
     .background2{
         display: none
     }
-    .footer{
+    .a .paragraph , .footer{
         position: fixed;
         bottom: 0px;
         left: 0px;
