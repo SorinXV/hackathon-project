@@ -14,17 +14,15 @@ export default function Homepage(){
                 <span className='flex'><img className='image' src={require('../images/image.png')} />Ban<span className='color-purple'>ner</span> </span>
                 
                 </h1>
-                <p className='paragraph '>Lorem Ipsum is simply dummy text of the printing and 
-            typesetting industry. Lorem Ipsum has been the 
-            industry's standard dummy text ever since the 1500s,
-             when an unknown printer took a galley of type and 
-            scrambled it to make a type specimen book. It has 
-            survived not only five centuries, but also the leap into
-            electronic typesetting, remaining essentially.<br></br>
-            Find out more <span><a href="#" className='color-purple'>here</a></span></p>
+                <p className='paragraph '>Hammer Banner is a discord bot built for large scale servers. It’s purpose is to ease the duty of mods
+                by detecting and deleting spam links and innapropriate content. Currently the bot is still in development <br></br>
+                Find out more <span><a href="https://github.com/sikethedev/scammer-hammer" className='color-purple'>here</a></span></p>
             
                 <a className='paragraph footer'>
-                ©HammerBanner2022 all rights reserved.
+                    <span className='color-purple'>
+                    ©HammerBanner2022   
+                    </span>
+                , all rights reserved.
                 </a>
                 
             </div>
