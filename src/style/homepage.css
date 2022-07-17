@@ -62,6 +62,8 @@
     }
     .paragraph{
         font-size: 21px;
+        width: 95%;
+        
     }
     .background{
         display: none
